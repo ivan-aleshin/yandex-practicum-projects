@@ -10,15 +10,15 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
 
 ## Projects list:  
 [![PROJ_15](https://img.shields.io/badge/🔗%20Project-15-87CEEB)](#optimization-of-electricity-consumption-in-industry) "Optimization of electricity consumption in industry"  
-[![PROJ_13](https://img.shields.io/badge/🔗%20Project-13-87CEEB)](#age-recognition-using-cv-deep-learning-model) "Age Recognition Using CV Deep Learning Model"  
+[![PROJ_13](https://img.shields.io/badge/🔗%20Project-13-87CEEB)](#natural-language-processing-toxic-comments-detection-using-ml) "Age Recognition Using CV Deep Learning Model"  
 [![PROJ_12](https://img.shields.io/badge/🔗%20Project-12-87CEEB)](#natural-language-processing:-toxic-comments-detection-using-ml) "Natural Language Processing: Toxic Comments Detection Using ML"  
 [![PROJ_11](https://img.shields.io/badge/🔗%20Project-11-87CEEB)](#number-of-taxi-orders-prediction) "Number of Taxi Orders Prediction"  
 [![PROJ_10](https://img.shields.io/badge/🔗%20Project-10-87CEEB)](#car-price-prediction) "Car Price Prediction"  
 [![PROJ_09](https://img.shields.io/badge/🔗%20Project-09-87CEEB)](#development-of-personal-data-protection-algorithm) "Development of Personal Data Protection Algorithm"  
 [![PROJ_08](https://img.shields.io/badge/🔗%20Project-08-87CEEB)](#prediction-of-enrichment-efficiency-in-the-recovery-of-gold-from-ore) "Prediction of Enrichment Efficiency in the Recovery of Gold from Ore"  
 [![PROJ_07](https://img.shields.io/badge/🔗%20Project-07-87CEEB)](#exploration-of-new-oil-fields-regions-using-ml-models) "Exploration of New Oil Fields Regions Using ML Models"  
-[![PROJ_06](https://img.shields.io/badge/🔗%20Project-06-87CEEB)](#bank_customer_churn_prediction) "Bank Customer Churn Prediction"  
-[![PROJ_05](https://img.shields.io/badge/🔗%20Project-05-87CEEB)](#ml_model-for-mobile-tariff-recommendation) "ML Model for Mobile Tariff Recommendation"   
+[![PROJ_06](https://img.shields.io/badge/🔗%20Project-06-87CEEB)](#bank-customer-churn-prediction) "Bank Customer Churn Prediction"  
+[![PROJ_05](https://img.shields.io/badge/🔗%20Project-05-87CEEB)](#ml-model-for-mobile-tariff-recommendation) "ML Model for Mobile Tariff Recommendation"   
 [![PROJ_04](https://img.shields.io/badge/🔗%20Project-04-87CEEB)](#video-games-markets-research) "Video Games Markets Research"  
 
 ***
