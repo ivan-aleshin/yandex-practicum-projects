@@ -12,7 +12,7 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
 [![PROJ_15](https://img.shields.io/badge/🔗%20Project-15-87CEEB)](#optimization-of-electricity-consumption-in-industry) "Optimization of electricity consumption in industry"  
 [![PROJ_13](https://img.shields.io/badge/🔗%20Project-13-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition) "Age Recognition Using CV Deep Learning Model"  
 [![PROJ_12](https://img.shields.io/badge/🔗%20Project-12-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection) "Natural Language Processing: Toxic Comments Detection Using ML"  
-[![PROJ_11](https://img.shields.io/badge/🔗%20Project-11-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/11_timeseries_prediction) "Number oof Taxi Orders Prediction (Timeseries)"  
+[![PROJ_11](https://img.shields.io/badge/🔗%20Project-11-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/11_timeseries_prediction) "Number of Taxi Orders Prediction"  
 [![PROJ_10](https://img.shields.io/badge/🔗%20Project-10-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/10_car_price_prediction) "Car Price Prediction"  
 [![PROJ_09](https://img.shields.io/badge/🔗%20Project-09-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method) "Development of Personal Data Protection Algorithm"  
 [![PROJ_08](https://img.shields.io/badge/🔗%20Project-08-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry) "Prediction of Enrichment Efficiency in the Recovery of Gold from Ore"  
@@ -38,6 +38,236 @@ Exploring the available data, it types, missings, duplicates, basic statistics, 
 Data was cleaned and preprocessed. Some missings in data was filled some data had to be deleted. 
 Then data was aggregated from 7 different tables to the one. 10 new features was generated.
 Three different ML models were trained and tuned on cross-validation with feature transformation via pipeline. After determining the best model, we've evaluated the importance of the features. Three ifferent methods was used to explore feature importances. Based on the study of feature importances a new lightweight model was developed with only 10 features (instead of 33) and MAE below 5.4.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_13](https://img.shields.io/badge/go%20to%20PROJECT-13-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
+## Age Recognition Using CV Deep Learning Model
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12-87CEEB)]()
+## Natural Language Processing: Toxic Comments Detection Using ML
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_11](https://img.shields.io/badge/go%20to%20PROJECT-11-87CEEB)]()
+## Number of Taxi Orders Prediction
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_10](https://img.shields.io/badge/go%20to%20PROJECT-10-87CEEB)]()
+## Car Price Prediction
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_09](https://img.shields.io/badge/go%20to%20PROJECT-09-87CEEB)]()
+## Development of Personal Data Protection Algorithm
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_08](https://img.shields.io/badge/go%20to%20PROJECT-08-87CEEB)]()
+## Prediction of Enrichment Efficiency in the Recovery of Gold from Ore
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_07](https://img.shields.io/badge/go%20to%20PROJECT-07-87CEEB)]()
+## Exploration of New Oil Fields Regions Using ML Models
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_06](https://img.shields.io/badge/go%20to%20PROJECT-06-87CEEB)]()
+## Bank Customer Churn Prediction
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_05](https://img.shields.io/badge/go%20to%20PROJECT-05-87CEEB)]()
+## ML Model for Mobile Tariff Recommendation
+
+### Project Goal
+.  
+
+### Project Description
+.  
+
+**Trend**  
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+
+**Tools and Skiils**  
+[![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
+[![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+
+***
+
+[![PROJ_04](https://img.shields.io/badge/go%20to%20PROJECT-04-87CEEB)]()
+## Video Games Markets Research
+
+### Project Goal
+.  
+
+### Project Description
+.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
