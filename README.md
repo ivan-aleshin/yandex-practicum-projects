@@ -10,16 +10,16 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
 
 ## Projects list:  
 [![PROJ_15](https://img.shields.io/badge/🔗%20Project-15-87CEEB)](#optimization-of-electricity-consumption-in-industry) "Optimization of electricity consumption in industry"  
-[![PROJ_13](https://img.shields.io/badge/🔗%20Project-13-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition) "Age Recognition Using CV Deep Learning Model"  
-[![PROJ_12](https://img.shields.io/badge/🔗%20Project-12-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection) "Natural Language Processing: Toxic Comments Detection Using ML"  
-[![PROJ_11](https://img.shields.io/badge/🔗%20Project-11-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/11_timeseries_prediction) "Number of Taxi Orders Prediction"  
-[![PROJ_10](https://img.shields.io/badge/🔗%20Project-10-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/10_car_price_prediction) "Car Price Prediction"  
-[![PROJ_09](https://img.shields.io/badge/🔗%20Project-09-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method) "Development of Personal Data Protection Algorithm"  
-[![PROJ_08](https://img.shields.io/badge/🔗%20Project-08-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry) "Prediction of Enrichment Efficiency in the Recovery of Gold from Ore"  
-[![PROJ_07](https://img.shields.io/badge/🔗%20Project-07-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/07_ml_oil_fields_prediction) "Exploration of New Oil Fields Regions Using ML Models"  
-[![PROJ_06](https://img.shields.io/badge/🔗%20Project-06-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/06_bank_churn_prediction) "Bank Customer Churn Prediction"  
-[![PROJ_05](https://img.shields.io/badge/🔗%20Project-05-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/05_mobile_tariff_recommendation) "ML Model for Mobile Tariff Recommendation"   
-[![PROJ_04](https://img.shields.io/badge/🔗%20Project-04-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/04_videogames_market_research) "Video Games Markets Research"  
+[![PROJ_13](https://img.shields.io/badge/🔗%20Project-13-87CEEB)](#age-recognition-using-cv-deep-learning-model) "Age Recognition Using CV Deep Learning Model"  
+[![PROJ_12](https://img.shields.io/badge/🔗%20Project-12-87CEEB)](#natural-language-processing:-toxic-comments-detection-using-ml) "Natural Language Processing: Toxic Comments Detection Using ML"  
+[![PROJ_11](https://img.shields.io/badge/🔗%20Project-11-87CEEB)](#number-of-taxi-orders-prediction) "Number of Taxi Orders Prediction"  
+[![PROJ_10](https://img.shields.io/badge/🔗%20Project-10-87CEEB)](#car-price-prediction) "Car Price Prediction"  
+[![PROJ_09](https://img.shields.io/badge/🔗%20Project-09-87CEEB)](#development-of-personal-data-protection-algorithm) "Development of Personal Data Protection Algorithm"  
+[![PROJ_08](https://img.shields.io/badge/🔗%20Project-08-87CEEB)](#prediction-of-enrichment-efficiency-in-the-recovery-of-gold-from-ore) "Prediction of Enrichment Efficiency in the Recovery of Gold from Ore"  
+[![PROJ_07](https://img.shields.io/badge/🔗%20Project-07-87CEEB)](#exploration-of-new-oil-fields-regions-using-ml-models) "Exploration of New Oil Fields Regions Using ML Models"  
+[![PROJ_06](https://img.shields.io/badge/🔗%20Project-06-87CEEB)](#bank_customer_churn_prediction) "Bank Customer Churn Prediction"  
+[![PROJ_05](https://img.shields.io/badge/🔗%20Project-05-87CEEB)](#ml_model-for-mobile-tariff-recommendation) "ML Model for Mobile Tariff Recommendation"   
+[![PROJ_04](https://img.shields.io/badge/🔗%20Project-04-87CEEB)](#video-games-markets-research) "Video Games Markets Research"  
 
 ***
   
