@@ -25,7 +25,7 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
   
 
 [![PROJ_15](https://img.shields.io/badge/go%20to%20PROJECT-15-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)  
-## Optimization of electricity consumption in industry
+## [Optimization of electricity consumption in industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
 
 ### Project Goal
 Optimization of electricity consumption at the steel plant by develop a ML model for predicting steel temperature.  
@@ -54,7 +54,7 @@ Three different ML models were trained and tuned on cross-validation with featur
 ***
 
 [![PROJ_13](https://img.shields.io/badge/go%20to%20PROJECT-13-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
-## Age Recognition Using CV Deep Learning Model
+## [Age Recognition Using CV Deep Learning Model](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
 
 ### Project Goal
 .  
@@ -76,8 +76,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12-87CEEB)]()
-## Natural Language Processing: Toxic Comments Detection Using ML
+[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection)
+## [Natural Language Processing: Toxic Comments Detection Using ML](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection)
 
 ### Project Goal
 .  
@@ -99,8 +99,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_11](https://img.shields.io/badge/go%20to%20PROJECT-11-87CEEB)]()
-## Number of Taxi Orders Prediction
+[![PROJ_11](https://img.shields.io/badge/go%20to%20PROJECT-11-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/11_timeseries_prediction/11_timeseries_prediction.ipynb)
+## [Number of Taxi Orders Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/11_timeseries_prediction/11_timeseries_prediction.ipynb)
 
 ### Project Goal
 .  
@@ -122,8 +122,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_10](https://img.shields.io/badge/go%20to%20PROJECT-10-87CEEB)]()
-## Car Price Prediction
+[![PROJ_10](https://img.shields.io/badge/go%20to%20PROJECT-10-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/10_car_price_prediction)
+## [Car Price Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/10_car_price_prediction)
 
 ### Project Goal
 .  
@@ -145,8 +145,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_09](https://img.shields.io/badge/go%20to%20PROJECT-09-87CEEB)]()
-## Development of Personal Data Protection Algorithm
+[![PROJ_09](https://img.shields.io/badge/go%20to%20PROJECT-09-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method)
+## [Development of Personal Data Protection Algorithm](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method)
 
 ### Project Goal
 .  
@@ -168,8 +168,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_08](https://img.shields.io/badge/go%20to%20PROJECT-08-87CEEB)]()
-## Prediction of Enrichment Efficiency in the Recovery of Gold from Ore
+[![PROJ_08](https://img.shields.io/badge/go%20to%20PROJECT-08-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
+## [Prediction of Enrichment Efficiency in the Recovery of Gold from Ore](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
 
 ### Project Goal
 .  
@@ -191,8 +191,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_07](https://img.shields.io/badge/go%20to%20PROJECT-07-87CEEB)]()
-## Exploration of New Oil Fields Regions Using ML Models
+[![PROJ_07](https://img.shields.io/badge/go%20to%20PROJECT-07-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/07_ml_oil_fields_prediction)
+## [Exploration of New Oil Fields Regions Using ML Models](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/07_ml_oil_fields_prediction)
 
 ### Project Goal
 .  
@@ -214,8 +214,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_06](https://img.shields.io/badge/go%20to%20PROJECT-06-87CEEB)]()
-## Bank Customer Churn Prediction
+[![PROJ_06](https://img.shields.io/badge/go%20to%20PROJECT-06-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/06_bank_churn_prediction)
+## [Bank Customer Churn Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/06_bank_churn_prediction)
 
 ### Project Goal
 .  
@@ -237,8 +237,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_05](https://img.shields.io/badge/go%20to%20PROJECT-05-87CEEB)]()
-## ML Model for Mobile Tariff Recommendation
+[![PROJ_05](https://img.shields.io/badge/go%20to%20PROJECT-05-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/05_mobile_tariff_recommendation)
+## [ML Model for Mobile Tariff Recommendation](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/05_mobile_tariff_recommendation)
 
 ### Project Goal
 .  
@@ -260,8 +260,8 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 ***
 
-[![PROJ_04](https://img.shields.io/badge/go%20to%20PROJECT-04-87CEEB)]()
-## Video Games Markets Research
+[![PROJ_04](https://img.shields.io/badge/go%20to%20PROJECT-04-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/04_videogames_market_research)
+## [Video Games Markets Research](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/04_videogames_market_research)
 
 ### Project Goal
 .  
