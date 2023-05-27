@@ -5,8 +5,8 @@
 
 Repository of **Data Analytics, Data Science, Machine Learning** projects completed during the educational courses at **Yandex Practicum**
 
-[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-A8E4A0)]()  
-[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20RUS-A8E4A0)]()  
+[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20ENG-A8E4A0)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/certificates/ds_eng.md)  
+[![certificate](https://img.shields.io/badge/сertificate-Data%20Scientist%20RUS-A8E4A0)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/certificates/ds_rus.md)  
 
 ## Projects list:  
 [![PROJ_15](https://img.shields.io/badge/🔗%20Project-15-87CEEB)](#optimization-of-electricity-consumption-in-industry) "Optimization of electricity consumption in industry"  
