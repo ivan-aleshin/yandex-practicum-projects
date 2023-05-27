@@ -99,15 +99,15 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
-[![Spacy](https://img.shields.io/static/v1?label=tool&message=Spacy&color=cd6133)](#)  
-[![NLTK](https://img.shields.io/static/v1?label=tool&message=nltk&color=cd6133)](#)  
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)
+[![Spacy](https://img.shields.io/static/v1?label=tool&message=Spacy&color=cd6133)](#)
+[![NLTK](https://img.shields.io/static/v1?label=tool&message=nltk&color=cd6133)](#)
 [![TF-IDF](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=cd6133)](#)  
 
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)  
 
 ***
 
@@ -115,10 +115,10 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 ## [Number of Taxi Orders Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/11_timeseries_prediction/11_timeseries_prediction.ipynb)
 
 ### Project Goal
-.  
+Train ML model to predict the number of taxi orders for the next hour.  
 
 ### Project Description
-.  
+The purpose of this study is to develop optimal model for predicting the number of taxi orders in next hour. There are historical data on taxi orders at airports provided. The task were resolved into timeseries prediction.
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
@@ -128,6 +128,8 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
 
+[![TS](https://img.shields.io/static/v1?label=skill&message=Timeseries&color=B33771)](#)
+[![Stats](https://img.shields.io/static/v1?label=skill&message=Statistics&color=B33771)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
