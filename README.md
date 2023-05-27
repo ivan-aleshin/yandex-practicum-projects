@@ -28,7 +28,7 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
 ## [Optimization of electricity consumption in industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
 
 ### Project Goal
-Optimization of electricity consumption at the steel plant by develop a ML model for predicting steel temperature.  
+Optimize electricity consumption at the steel plant. Develop ML model for predicting steel temperature.  
 
 ### Project Description
 Given data from various indicators of a steel plant.
@@ -52,16 +52,6 @@ Three different ML models were trained and tuned on cross-validation with featur
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
 
 ***
-
-В плане накопления данных для определенных возрастных групп - тут стоит быть более аккуратным, так как средняя ошибка - 7 лет.
-
-Стек технологий:
-Pandas, matplotlib, numpy, seaborn, keras
-
-Статус проекта:
-Завершен.
-
-
 
 [![PROJ_13](https://img.shields.io/badge/go%20to%20PROJECT-13-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
 ## [Age Recognition Using CV Deep Learning Model](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
@@ -98,10 +88,10 @@ The pretrained Resnet-102 neural network model was finetuned for the purpose of 
 ## [Natural Language Processing: Toxic Comments Detection Using ML](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection)
 
 ### Project Goal
-.  
+Develop NLP model to detect toxic comments.
 
 ### Project Description
-.  
+Online store "Wikishop" launches a new service. Now users can edit and supplement product descriptions, just like in wiki communities. The store needs a tool to speedup the moderation of product desctiption commentaries by automating their tone assessment. The tool will use an ML model which can detect toxic comments and submit them for moderation.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
@@ -110,8 +100,12 @@ The pretrained Resnet-102 neural network model was finetuned for the purpose of 
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![Spacy](https://img.shields.io/static/v1?label=tool&message=Spacy&color=cd6133)](#)  
+[![NLTK](https://img.shields.io/static/v1?label=tool&message=nltk&color=cd6133)](#)  
+[![TF-IDF](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=cd6133)](#)  
 
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
 
