@@ -41,20 +41,18 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
-[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=6495ED)](#)  
 
-**Tools**  
+**Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)
-[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=cd6133)](#)
-[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=cd6133)](#)  
-
-**Skiils**  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=DE3163)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=CCCCFF)](#)  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
-[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
 ***
 
@@ -77,13 +75,11 @@ The pretrained Resnet-102 neural network model was finetuned for the purpose of 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)  
 
-**Tools**  
+**Tools & Skiils**  
 [![Keras](https://img.shields.io/static/v1?label=tool&message=Keras&color=40407a)](#)
 [![Tensorflow](https://img.shields.io/static/v1?label=tool&message=Tensorflow&color=cd6133)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![ResNet](https://img.shields.io/static/v1?label=tool&message=ResNet&color=33d9b2)](#)
-
-**Skiils**  
+[![ResNet](https://img.shields.io/static/v1?label=tool&message=ResNet&color=DFFF00)](#)  
 [![DL](https://img.shields.io/static/v1?label=skill&message=Deep%20Learning&color=1B9CFC)](#)
 [![CV](https://img.shields.io/static/v1?label=skill&message=Computer%20Vision&color=B33771)](#)
 
@@ -100,21 +96,19 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
-[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=6495ED)](#)  
 
-**Tools**  
+**Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)
 [![Spacy](https://img.shields.io/static/v1?label=tool&message=Spacy&color=cd6133)](#)
 [![NLTK](https://img.shields.io/static/v1?label=tool&message=nltk&color=cd6133)](#)
 [![TF-IDF](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=cd6133)](#)  
-
-**Skiils**  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=1B9CFC)](#)
+[![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=2ECC71)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)  
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)  
 
 ***
 
@@ -134,13 +128,12 @@ The purpose of this study is to develop optimal model for predicting the number 
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
-
-[![TS](https://img.shields.io/static/v1?label=skill&message=Timeseries&color=B33771)](#)
-[![Stats](https://img.shields.io/static/v1?label=skill&message=Statistics&color=B33771)](#)
+[![TS](https://img.shields.io/static/v1?label=skill&message=Timeseries&color=52BE80)](#)
+[![Stats](https://img.shields.io/static/v1?label=skill&message=Statistics&color=AF7AC5)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
-[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
 ***
 
@@ -155,18 +148,16 @@ A company selling used cars is developing an app. One of the features attracting
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)  
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=FF7F50)](#)  
 
-**Tools**  
+**Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
-
-**Skiils**  
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
 ***
 
@@ -181,19 +172,17 @@ An insurance company needs to protect its customers information using data trans
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
-[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=6495ED)](#)
 
-**Tools**  
+**Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)
-[![Numpy](https://img.shields.io/static/v1?label=tool&message=numpy&color=cd6133)](#)  
-
-**Skiils**  
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Numpy](https://img.shields.io/static/v1?label=tool&message=numpy&color=F7DC6F)](#)  
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Linear Algebra](https://img.shields.io/static/v1?label=skill&message=Linear%20Algebra&color=B33771)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![OOP](https://img.shields.io/static/v1?label=skill&message=OOP&color=1B9CFC)](#)  
+[![OOP](https://img.shields.io/static/v1?label=skill&message=OOP&color=58D68D)](#)  
 
 ***
 
@@ -208,21 +197,19 @@ A gold mining company needs a solution to perfect its efficiency. A model foreca
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
-[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=FF7F50)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=6495ED)](#)  
 
-**Tools**  
+**Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)
-[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=cd6133)](#)
-[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=cd6133)](#)  
-
-**Skiils**  
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=DE3163)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=CCCCFF)](#)  
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Custom Metrics](https://img.shields.io/static/v1?label=skill&message=Custom%20Metrics&color=1B9CFC)](#)
-[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
+[![Custom Metrics](https://img.shields.io/static/v1?label=skill&message=Custom%20Metrics&color=BB8FCE)](#)
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
 
 ***
@@ -239,16 +226,15 @@ A machine learning model forecasts oil reserves in new wells. The model assists 
 Part of the research is potential profit and risk assessment using Bootstrap methodology.  
 
 **Trend**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=FF7F50)](#)
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
-[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=6495ED)](#)  
 
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
-
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Bootstrap](https://img.shields.io/static/v1?label=skill&message=Bootstrap&color=B33771)](#)  
 
@@ -264,16 +250,15 @@ Analyse data of clients terminating their contract with the bank and to choose s
 More clients leave the bank every month. A model is build using unbalanced data to predict the probability of a client leaving the bank in near future. High F1 sroce was reached with subsequent verification on a test sample. Additionally AUC-ROC score was measured, correlated with F1 score.  
 
 **Trend**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=FF7F50)](#)
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)  
 
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
-
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Threshold tuning](https://img.shields.io/static/v1?label=skill&message=Threshold%20Tuning&color=B33771)](#)  
 
 ***
@@ -294,10 +279,9 @@ A system recommending users a more suitable tariff based on their data usage, am
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
-
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
 ***
 
@@ -311,18 +295,16 @@ Using historical user and expert ratings date, genres and number of copied sold 
 An online computer games store has customers worldwide. Historical data about games from open sources is available to identify a potentially popular product. This helps to plan advertising campaigns. Games that are the best bet for being popular and bring most sales are selected. Customer preferences for various regions of the world are noted. A/B-test results revealed that average user ratings between platforms Xbox One and PC do not have statistically significant difference. Another A/B-test showed that average user ratings between genres Action and Sports are different. T-test for independent samples.  
 
 **Trend**  
-[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=FF7F50)](#)
 
-**Tools**  
+**Tools & Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![Scipy](https://img.shields.io/static/v1?label=tool&message=scipy&color=33d9b2)](#)
-[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=33d9b2)](#)
-[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=33d9b2)](#)  
-
-**Skiils**  
-[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
-[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=1B9CFC)](#)
+[![Scipy](https://img.shields.io/static/v1?label=tool&message=scipy&color=FFBF00)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=CCCCFF)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=DE3163)](#)  
+[![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)
 [![Statistics](https://img.shields.io/static/v1?label=tool&message=Statistics&color=cd6133)](#)  
 
 
