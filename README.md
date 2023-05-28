@@ -27,10 +27,10 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
 [![PROJ_15](https://img.shields.io/badge/go%20to%20PROJECT-15-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)  
 ## [Optimization of electricity consumption in industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
 
-### Project Goal
+### Task
 Optimize electricity consumption at the steel plant. Develop ML model for predicting steel temperature.  
 
-### Project Description
+### Description
 Given data from various indicators of a steel plant.
 The task is to develop ML model to predict final temperature of steel with MAE at least 6.8.  
 
@@ -41,25 +41,30 @@ Three different ML models were trained and tuned on cross-validation with featur
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
 
-**Tools and Skiils**  
+**Tools**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=cd6133)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=cd6133)](#)  
 
+**Skiils**  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
 
 ***
 
 [![PROJ_13](https://img.shields.io/badge/go%20to%20PROJECT-13-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
 ## [Age Recognition Using CV Deep Learning Model](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
 
-### Project Goal
+### Task
 Develop a CV model to recognise an age of customers by their photo.
 
-### Project Description
+### Description
 Supermarket chain Bread&Salt introduces a computer vision system for processing customer's photos. Photo fixation at checkout area will help to determine the age of customers in order to:  
 - Analyze purchases and offer products that may be of interest to buyers of this age group;
 - Control the conscientiousness of cashiers when selling alcohol;
@@ -70,33 +75,34 @@ THe exploratory analysis was conducted first. There are not many photos were ava
 The pretrained Resnet-102 neural network model was finetuned for the purpose of stidy. The last two layers of model were replaced, respectively, with a connected layer with one output neuron and leaky ReLU activation. The final value of the MAE metric on the validation sample was 5.91.
 
 **Trend**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)  
 
-**Tools and Skiils**  
+**Tools**  
 [![Keras](https://img.shields.io/static/v1?label=tool&message=Keras&color=40407a)](#)
 [![Tensorflow](https://img.shields.io/static/v1?label=tool&message=Tensorflow&color=cd6133)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
+[![ResNet](https://img.shields.io/static/v1?label=tool&message=ResNet&color=33d9b2)](#)
 
-
-[![DL](https://img.shields.io/static/v1?label=skill&message=DL&color=1B9CFC)](#)
-[![CV](https://img.shields.io/static/v1?label=skill&message=CV&color=B33771)](#)
-[![RE](https://img.shields.io/static/v1?label=skill&message=RE&color=B33771)](#)
+**Skiils**  
+[![DL](https://img.shields.io/static/v1?label=skill&message=Deep%20Learning&color=1B9CFC)](#)
+[![CV](https://img.shields.io/static/v1?label=skill&message=Computer%20Vision&color=B33771)](#)
 
 ***
 
 [![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection)
 ## [Natural Language Processing: Toxic Comments Detection Using ML](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection)
 
-### Project Goal
+### Task
 Develop NLP model to detect toxic comments.
 
-### Project Description
+### Description
 Online store "Wikishop" launches a new service. Now users can edit and supplement product descriptions, just like in wiki communities. The store needs a tool to speedup the moderation of product desctiption commentaries by automating their tone assessment. The tool will use an ML model which can detect toxic comments and submit them for moderation.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
 
-**Tools and Skiils**  
+**Tools**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)
@@ -104,6 +110,7 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 [![NLTK](https://img.shields.io/static/v1?label=tool&message=nltk&color=cd6133)](#)
 [![TF-IDF](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=cd6133)](#)  
 
+**Skiils**  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
@@ -114,151 +121,171 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 [![PROJ_11](https://img.shields.io/badge/go%20to%20PROJECT-11-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/11_timeseries_prediction/11_timeseries_prediction.ipynb)
 ## [Number of Taxi Orders Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/11_timeseries_prediction/11_timeseries_prediction.ipynb)
 
-### Project Goal
+### Task
 Train ML model to predict the number of taxi orders for the next hour.  
 
-### Project Description
+### Description
 The purpose of this study is to develop optimal model for predicting the number of taxi orders in next hour. There are historical data on taxi orders at airports provided. The task were resolved into timeseries prediction.
 
 **Trend**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)  
 
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
 
 [![TS](https://img.shields.io/static/v1?label=skill&message=Timeseries&color=B33771)](#)
 [![Stats](https://img.shields.io/static/v1?label=skill&message=Statistics&color=B33771)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
 
 ***
 
 [![PROJ_10](https://img.shields.io/badge/go%20to%20PROJECT-10-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/10_car_price_prediction)
 ## [Car Price Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/10_car_price_prediction)
 
-### Project Goal
-.  
+### Task
+Train the model to determine the market value of the car based on its parametres  
 
-### Project Description
-.  
+### Description
+A company selling used cars is developing an app. One of the features attracting new clients is functionality of estimating a car's worth based on its features and characteristics. A car cost forcasting model was created using historical data.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)  
 
-**Tools and Skiils**  
+**Tools**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
 
-[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+**Skiils**  
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
 
 ***
 
 [![PROJ_09](https://img.shields.io/badge/go%20to%20PROJECT-09-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method)
 ## [Development of Personal Data Protection Algorithm](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method)
 
-### Project Goal
-.  
+### Task
+Develop a method to transform data for the insurance company clients personal information protection.  
 
-### Project Description
-.  
+### Description
+An insurance company needs to protect its customers information using data transformation methods. This helps to prevent sensitive data from being decrypted. This project required data preprocessing. The linear regression model algorythm was validated by multiplying the results on an invertible matrix. Conversely, multiplication on an inverse matrix of the invertible matrix proved the model works correctly. R2 score for linear regression model was measured on indentical data: initial data first, then data multiplied on invertible matrix (size of the features count). Metrics matched perfectly which means the algorythm works.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)
 
-**Tools and Skiils**  
+**Tools**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)
+[![Numpy](https://img.shields.io/static/v1?label=tool&message=numpy&color=cd6133)](#)  
 
-[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+**Skiils**  
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Linear Algebra](https://img.shields.io/static/v1?label=skill&message=Linear%20Algebra&color=B33771)](#)
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![OOP](https://img.shields.io/static/v1?label=skill&message=OOP&color=1B9CFC)](#)  
 
 ***
 
 [![PROJ_08](https://img.shields.io/badge/go%20to%20PROJECT-08-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
 ## [Prediction of Enrichment Efficiency in the Recovery of Gold from Ore](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
 
-### Project Goal
-.  
+### Task
+Develop ML model to predict recovery rate for gold from gold ore  
 
-### Project Description
-.  
+### Description
+A gold mining company needs a solution to perfect its efficiency. A model forecasting gold recovery rate is created using ore extraction and refinement parametres data. The model is developed to help optimize production by assessing ore quality to avoid financial losses on ineffective operations.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
 
-**Tools and Skiils**  
+**Tools**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=cd6133)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=cd6133)](#)  
 
-[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+**Skiils**  
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Custom Metrics](https://img.shields.io/static/v1?label=skill&message=Custom%20Metrics&color=1B9CFC)](#)
+[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
+
 
 ***
 
 [![PROJ_07](https://img.shields.io/badge/go%20to%20PROJECT-07-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/07_ml_oil_fields_prediction)
 ## [Exploration of New Oil Fields Regions Using ML Models](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/07_ml_oil_fields_prediction)
 
-### Project Goal
-.  
+### Task
+Selecting the most profitable regions for oil extraction. Develop ML model to determine the area where drilling will be the most profitable with the least risk of loss.  
 
-### Project Description
-.  
+### Description
+An oil company needs to make decion on developing the next well location. The existing data is oil samples' characteristics for varoius wells. Data contains oil quality parametres and oil reserves information in three regions. Characteristics of each well in the region are already known.
+A machine learning model forecasts oil reserves in new wells. The model assists in picking the region with most profitable set of wells to be drilled.
+Part of the research is potential profit and risk assessment using Bootstrap methodology.  
 
 **Trend**  
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![ML Engineer](https://img.shields.io/static/v1?label=Trend&message=ML%20Engineer&color=218c74)](#)  
 
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
 
-[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Bootstrap](https://img.shields.io/static/v1?label=skill&message=Bootstrap&color=B33771)](#)  
 
 ***
 
 [![PROJ_06](https://img.shields.io/badge/go%20to%20PROJECT-06-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/06_bank_churn_prediction)
 ## [Bank Customer Churn Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/06_bank_churn_prediction)
 
-### Project Goal
-.  
+### Task
+Analyse data of clients terminating their contract with the bank and to choose strategy of retainung them or attracting new clients.  
 
-### Project Description
-.  
+### Description
+More clients leave the bank every month. A model is build using unbalanced data to predict the probability of a client leaving the bank in near future. High F1 sroce was reached with subsequent verification on a test sample. Additionally AUC-ROC score was measured, correlated with F1 score.  
 
 **Trend**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
+[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)  
 
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
 
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Threshold tuning](https://img.shields.io/static/v1?label=skill&message=Threshold%20Tuning&color=B33771)](#)  
 
 ***
 
 [![PROJ_05](https://img.shields.io/badge/go%20to%20PROJECT-05-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/05_mobile_tariff_recommendation)
 ## [ML Model for Mobile Tariff Recommendation](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/05_mobile_tariff_recommendation)
 
-### Project Goal
-.  
+### Task
+Based on the previous data study, build the Machine Learning model for the classification problem, which finds a suitable tariff  
 
-### Project Description
-.  
+### Description
+A system recommending users a more suitable tariff based on their data usage, amount of calls and sms. A classification model with the highest accuracy value is built to select the tariff to be suggested to the user. Correct ratio answers raised to 0.75. Accuracy tested on the test sample.  
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
@@ -266,33 +293,37 @@ The purpose of this study is to develop optimal model for predicting the number 
 **Tools and Skiils**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
 
-[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
+[![Data Visualisation](https://img.shields.io/static/v1?label=skill&message=Data%20Visualisation&color=1B9CFC)](#)  
 
 ***
 
 [![PROJ_04](https://img.shields.io/badge/go%20to%20PROJECT-04-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/04_videogames_market_research)
 ## [Video Games Markets Research](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/04_videogames_market_research)
 
-### Project Goal
-.  
+### Task
+Using historical user and expert ratings date, genres and number of copied sold for various platforms, identify patterns that contribute success of a game  
 
-### Project Description
-.  
+### Description
+An online computer games store has customers worldwide. Historical data about games from open sources is available to identify a potentially popular product. This helps to plan advertising campaigns. Games that are the best bet for being popular and bring most sales are selected. Customer preferences for various regions of the world are noted. A/B-test results revealed that average user ratings between platforms Xbox One and PC do not have statistically significant difference. Another A/B-test showed that average user ratings between genres Action and Sports are different. T-test for independent samples.  
 
 **Trend**  
-[![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
+[![Data Analyst](https://img.shields.io/static/v1?label=Trend&message=Data%20Analyst&color=218c74)](#)
 
-**Tools and Skiils**  
+**Tools**  
 [![Pandas](https://img.shields.io/static/v1?label=tool&message=Pandas&color=40407a)](#)
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
-[![SK-Learn](https://img.shields.io/static/v1?label=tool&message=sk-learn&color=cd6133)](#)  
+[![Scipy](https://img.shields.io/static/v1?label=tool&message=scipy&color=33d9b2)](#)
+[![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=33d9b2)](#)
+[![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=33d9b2)](#)  
 
-[![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+**Skiils**  
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=B33771)](#)
+[![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=1B9CFC)](#)
+[![Statistics](https://img.shields.io/static/v1?label=tool&message=Statistics&color=cd6133)](#)  
+
 
 ***
