@@ -1,4 +1,4 @@
-[![PROJ_12](https://img.shields.io/badge/open%20PROJECT-12-success)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/13_cv_age_recognition/13_cv_age_recognition.ipynb)
+[![PROJ_13](https://img.shields.io/badge/open%20PROJECT-13-success)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/13_cv_age_recognition/13_cv_age_recognition.ipynb)
 ## Age Recognition Using CV Deep Learning Model
 
 ### Task
