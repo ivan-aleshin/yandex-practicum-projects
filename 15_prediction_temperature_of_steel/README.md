@@ -1,3 +1,4 @@
+[![PROJ_15](https://img.shields.io/badge/open%20PROJECT-15-success)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/15_prediction_temperature_of_steel/15_prediction_temperature_of_steel.ipynb)
 ## Optimization of electricity consumption in industry
 
 ### Task
