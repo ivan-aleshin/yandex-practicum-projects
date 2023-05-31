@@ -23,7 +23,6 @@ Repository of **Data Analytics, Data Science, Machine Learning** projects comple
 
 ***
   
-
 [![PROJ_15](https://img.shields.io/badge/go%20to%20PROJECT-15-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)  
 ## [Optimization of electricity consumption in industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
 
@@ -211,7 +210,6 @@ A gold mining company needs a solution to perfect its efficiency. A model foreca
 [![Custom Metrics](https://img.shields.io/static/v1?label=skill&message=Custom%20Metrics&color=BB8FCE)](#)
 [![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
-
 ***
 
 [![PROJ_07](https://img.shields.io/badge/go%20to%20PROJECT-07-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/07_ml_oil_fields_prediction)
@@ -306,6 +304,5 @@ An online computer games store has customers worldwide. Historical data about ga
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)
 [![Statistics](https://img.shields.io/static/v1?label=tool&message=Statistics&color=cd6133)](#)  
-
 
 ***
