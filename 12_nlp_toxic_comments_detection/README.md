@@ -21,7 +21,7 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 [![TF-IDF](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=cd6133)](#)  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=2ECC71)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![Feature Engineering](https://img.shields.io/static/v1?label=skill&message=Feature%20Engineering&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)  
 
 ***
