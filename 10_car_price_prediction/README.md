@@ -16,7 +16,7 @@ A company selling used cars is developing an app. One of the features attracting
 [![Python](https://img.shields.io/static/v1?label=tool&message=Python&color=33d9b2)](#)
 [![SKLearn](https://img.shields.io/static/v1?label=tool&message=sklearn&color=cd6133)](#)  
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![Feature Engineering](https://img.shields.io/static/v1?label=skill&message=Feature%20Engineering&color=B33771)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
