@@ -49,7 +49,7 @@ Three different ML models were trained and tuned on cross-validation with featur
 [![Matplotlib](https://img.shields.io/static/v1?label=tool&message=matplotlib&color=DE3163)](#)
 [![Seaborn](https://img.shields.io/static/v1?label=tool&message=seaborn&color=CCCCFF)](#)  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![Feature Engineering](https://img.shields.io/static/v1?label=skill&message=Feature%20Engineering&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
@@ -106,7 +106,7 @@ Online store "Wikishop" launches a new service. Now users can edit and supplemen
 [![TF-IDF](https://img.shields.io/static/v1?label=tool&message=tf-idf&color=cd6133)](#)  
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
 [![NLP](https://img.shields.io/static/v1?label=skill&message=Natural%20Language%20Processing&color=2ECC71)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![Feature Engineering](https://img.shields.io/static/v1?label=skill&message=Feature%20Engineering&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)  
 
 ***
@@ -130,7 +130,7 @@ The purpose of this study is to develop optimal model for predicting the number 
 [![TS](https://img.shields.io/static/v1?label=skill&message=Timeseries&color=52BE80)](#)
 [![Stats](https://img.shields.io/static/v1?label=skill&message=Statistics&color=AF7AC5)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![Feature Engineering](https://img.shields.io/static/v1?label=skill&message=Feature%20Engineering&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
