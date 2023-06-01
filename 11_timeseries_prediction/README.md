@@ -17,7 +17,7 @@ The purpose of this study is to develop optimal model for predicting the number 
 [![TS](https://img.shields.io/static/v1?label=skill&message=Timeseries&color=52BE80)](#)
 [![Stats](https://img.shields.io/static/v1?label=skill&message=Statistics&color=AF7AC5)](#)
 [![ML](https://img.shields.io/static/v1?label=skill&message=Machine%20Learning&color=1B9CFC)](#)
-[![Feature Genaration](https://img.shields.io/static/v1?label=skill&message=Feature%20Generation&color=B33771)](#)
+[![Feature Engineering](https://img.shields.io/static/v1?label=skill&message=Feature%20Engineering&color=B33771)](#)
 [![EDA](https://img.shields.io/static/v1?label=skill&message=EDA&color=FFBF00)](#)
 [![Data Visualization](https://img.shields.io/static/v1?label=skill&message=Data%20Visualization&color=9FE2BF)](#)  
 
