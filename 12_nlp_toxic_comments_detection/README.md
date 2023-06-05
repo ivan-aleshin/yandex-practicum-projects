@@ -1,5 +1,5 @@
-[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12%20Classic%20ML-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection.ipynb)
-[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12%20BERT-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection_bert.ipynb)
+[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12%20Classic%20ML-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection.ipynb)
+[![PROJ_12](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection_bert.ipynb)
 
 ## Natural Language Processing: Toxic Comments Detection Using ML
 
@@ -9,9 +9,9 @@ Develop NLP model to detect toxic comments.
 ### Description
 Online store "Wikishop" launches a new service. Now users can edit and supplement product descriptions, just like in wiki communities. The store needs a tool to speedup the moderation of product desctiption commentaries by automating their tone assessment. The tool will use an ML model which can detect toxic comments and submit them for moderation.  
 
-There are two approaches implemented:
-[1. Based on classic ML models](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection.ipynb)
-[2. Based on pretrained Bert model](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection_bert.ipynb.ipynb)
+There are two approaches implemented:  
+[1. Based on classic ML models](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection.ipynb)  
+[2. Based on pretrained Bert model](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection_bert.ipynb)
 
 **Trend**  
 [![Data Scientist](https://img.shields.io/static/v1?label=Trend&message=Data%20Scientist&color=218c74)](#)
