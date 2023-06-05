@@ -1,5 +1,5 @@
-[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12%20Classic%20ML-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection.ipynb)
-[![PROJ_12](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection_bert.ipynb)
+[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12%20Classic%20ML-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection.ipynb)  
+[![PROJ_12](https://img.shields.io/badge/go%20to%20PROJECT-12%20BERT-87CEEB)](https://github.com/ivan-aleshin/yandex-practicum-projects/blob/main/12_nlp_toxic_comments_detection/12_nlp_toxic_comments_detection_bert.ipynb)
 
 ## Natural Language Processing: Toxic Comments Detection Using ML
 
